@@ -7,7 +7,7 @@ import Koneksi.koneksi;
 
 /**
  *
- * @author Lathifah
+ * @author Mela Marsela
  */
 public class pelanggan extends javax.swing.JFrame {
     private Connection conn = new koneksi().connect();
