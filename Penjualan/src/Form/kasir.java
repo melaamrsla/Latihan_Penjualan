@@ -7,7 +7,7 @@ import Koneksi.koneksi;
 
 /**
  *
- * @author hp
+ * @author Mela Marsela
  */
 public class kasir extends javax.swing.JFrame {
  private Connection conn = new koneksi().connect();
